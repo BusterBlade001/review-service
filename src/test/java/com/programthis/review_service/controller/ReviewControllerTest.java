@@ -1,6 +1,5 @@
-package com.programthis.review_service.ControllerTest;
+package com.programthis.review_service.controller;
 
-import com.programthis.review_service.controller.ReviewController;
 import com.programthis.review_service.entity.Review;
 import com.programthis.review_service.service.ReviewService;
 import org.junit.jupiter.api.BeforeEach;
